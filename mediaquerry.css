@@ -1,0 +1,11 @@
+@media  screen and ( max-width: 1070px){
+    .home{
+    max-width: 1150px;
+    margin: 0 auto;
+   }
+   .home-container{
+    position: absolute;
+     display:grid ;
+     row-gap: 20px;
+   }
+}
